@@ -1,24 +1,34 @@
-BSD 2-Clause License
+Custom License for Roblox Projects
 
-Copyright (c) 2024, IModStuff
+Copyright (c) 2024 BlockateBuilder01
 
-Redistribution and use in source and binary forms, with or without
-modification, are permitted provided that the following conditions are met:
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Work"), to use, 
+modify, and distribute the Work, subject to the following conditions:
 
-1. Redistributions of source code must retain the above copyright notice, this
-   list of conditions and the following disclaimer.
+1. **Attribution**: 
+   - Any distribution of the Work or derivative works must provide appropriate 
+     credit, including a link to https://github.com/BlockateBuilder, unless the copyright holder explicitly state otherwise.
 
-2. Redistributions in binary form must reproduce the above copyright notice,
-   this list of conditions and the following disclaimer in the documentation
-   and/or other materials provided with the distribution.
+2. **Non-Commercial Use**: 
+   - The Work or any derivative works may not be used for commercial purposes 
+     without prior written permission from the copyright holder.
 
-THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
-AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
-IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
-DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
-FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
-DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
-SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
-CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
-OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
-OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+3. **Commercial Use Conditions**: 
+   - Commercial use is permitted only under the following conditions:
+     a. The copyright holder receives an agreed-upon share of any profits 
+        derived from the commercial use of the Work or its derivatives.
+     b. The Work is not the primary focus of the commercial product or 
+        distribution (e.g., it cannot be sold as-is or as the main feature).
+
+4. **No Warranty**: 
+   - The Work is provided "as is", without warranty of any kind, express or 
+     implied, including but not limited to the warranties of merchantability, 
+     fitness for a particular purpose, or non-infringement. In no event shall 
+     the authors be liable for any claim, damages, or other liability, whether 
+     in an action of contract, tort, or otherwise, arising from, out of, or in 
+     connection with the Work or the use or other dealings in the Work.
+
+By using, modifying, or distributing the Work, you agree to these terms.
+
+https://github.com/BlockateBuilder
