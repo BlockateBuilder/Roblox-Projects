@@ -1,3 +1,4 @@
+-- local script
 --\\ Variables
 local UIS = game:GetService("UserInputService")
 local rS = game:GetService("RunService")
